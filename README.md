@@ -5,7 +5,7 @@
 The **Client API Library** is a library of Javascript namespaced methods and CSS stylesheets based on [JQuery](https://jquery.com/) and [Bootstrap](https://getbootstrap.com/).
 
 ## [Wiki](https://github.com/CSOIreland/Client-API-Library/wiki)
-The Wiki centrally hosts all the technicall and business information about the **Client API Library**:
+The Wiki centrally hosts all the technical and business information about the **Client API Library**:
 
 * [Structure](https://github.com/CSOIreland/Client-API-Library/wiki/Structure)
 * [Bootstrap](https://github.com/CSOIreland/Client-API-Library/wiki/Bootstrap)
